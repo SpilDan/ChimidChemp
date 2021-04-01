@@ -1,0 +1,92 @@
+body
+{
+	background:url(images/background1.jpg);
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#page
+{
+	width: 960px;
+	margin: 0 auto;
+}
+h1
+{
+	width: 960px;
+	text-align: center;
+}
+h2
+{
+	text-align: center;
+}
+p
+{
+	text-align: center;
+	font-size: 18px;
+}
+.photo
+{
+	width: 600px;
+	width: 400px;
+	float: left;
+}
+.photo1
+{
+	width: 600px;
+	width: 400px;
+	float: right;
+}
+.photo2
+{
+	width: 600px;
+	width: 400px;
+	float: left;
+}
+img
+{
+	max-width:400px;
+	max-height:400px;
+}
+.inf1
+{
+	width: 560px;
+	height:414px;
+	float: right;
+}
+.right
+{
+	width: 360px;
+	float: right;
+	font-size: 26px;
+}
+.inf2
+{
+	width: 960px;
+}
+.left
+{
+	text-align: left;
+}
+.inf3
+{
+	width: 960px;
+	height:404px;
+}
+.section {
+    padding: 0px;
+    margin-bottom: 2px;
+    border-radius: 2px;
+}
+#contacts img {
+    height: 50px;
+    width: 50px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+#contacts a {
+    text-decoration: none;
+}
+#contacts img:hover {
+    opacity: 0.8;
+}
+#contacts {
+    text-align: center;
+}
